@@ -1,0 +1,5 @@
+Lista de alguma coisa
+
+- Testando Git
+- Aula pratica de engenharia 
+- Trabalho em dupla
